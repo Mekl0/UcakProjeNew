@@ -1,0 +1,14 @@
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\bin\Debug\net6.0\UcakProje.exe
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\bin\Debug\net6.0\UcakProje.deps.json
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\bin\Debug\net6.0\UcakProje.runtimeconfig.json
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\bin\Debug\net6.0\UcakProje.dll
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\bin\Debug\net6.0\UcakProje.pdb
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.AssemblyInfoInputs.cache
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.AssemblyInfo.cs
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.csproj.CoreCompileInputs.cache
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.dll
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\refint\UcakProje.dll
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.pdb
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\UcakProje.genruntimeconfig.cache
+C:\Users\balci\OneDrive\Masaüstü\Ucakprojesi-main\obj\Debug\net6.0\ref\UcakProje.dll
